@@ -1,12 +1,12 @@
 {
     "user":{
-        "username":"herobine.tk",
-        "pass":""
+        "username":"pfmc",
+        "pass":"123"
     },
 
     "server":{
-        "address":"herobine.tk",
-        "port":25565
+        "address":"ult9.falix.gg:40343",
+        "port":40343
     },
 
     "keyword":{
